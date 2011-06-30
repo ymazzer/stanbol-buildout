@@ -1,2 +1,2 @@
 #!/bin/sh
-${fise-option:java-bin} -jar "${fise-download:location}/${fise-download:filename}" -p ${fise-option:port}
+${stanbol-option:java-bin} -jar "${stanbol-download:location}/${stanbol-download:filename}" -p ${stanbol-option:port}
